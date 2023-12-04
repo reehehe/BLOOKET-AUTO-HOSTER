@@ -25,7 +25,5 @@ startButton.click();
 }, 50000);
 }
 } else {
-console.error("Failed to redirect to https://goldquest.blooket.com/host/join");
-}
 }, 5000);
 }, 10000);
